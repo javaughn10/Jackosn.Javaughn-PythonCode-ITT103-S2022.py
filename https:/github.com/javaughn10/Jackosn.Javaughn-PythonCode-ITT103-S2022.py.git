@@ -1,0 +1,10 @@
+'''Author: Javaughn Jackson
+Date created: April 30,2022
+Course: ITT103
+Purpose:To write a Python program based on the pseudocode algorithm.Then to complete the task of answering a question.'''
+sales = 1250
+if sales == 1250:
+    print("Class3 sale is 1250")
+else:
+    print("class3 unknown")
+Class3 sale is 1250    
